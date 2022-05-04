@@ -16,6 +16,8 @@ Then under Developer options, do the following:
 - If you want to connect over Wifi, just type your phone's IP address into the `phone-connection.config` file. 
   - _Your phone's IP address can be found in your phone settings_  
 
+
+## Take a look at the [Keyboard Shortcuts](https://github.com/Genymobile/scrcpy#shortcuts)
 -------------------------
 -------------------------
 -------------------------
