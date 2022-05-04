@@ -14,4 +14,12 @@ Then under Developer options, do the following:
 
 ## Download the latest version and simply open "`Start Phone`"
 - If you want to connect over Wifi, just type your phone's IP address into the `phone-connection.config` file. 
-  - _Your phone's IP address can be found in your phone settings_
+  - _Your phone's IP address can be found in your phone settings_  
+
+-------------------------
+-------------------------
+-------------------------
+# How to Install Releases from Original Creator 
+### (because trusting strangers on the internet is scary)
+- Download a trusted release from the creator's page [here](https://github.com/Genymobile/scrcpy).
+- Extract both scrcpy and sndcpy to the `src` folder and replace any existing files.
